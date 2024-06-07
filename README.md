@@ -1,0 +1,2 @@
+# CryptoX
+Cryptocurrency price checker
